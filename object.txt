@@ -1,0 +1,13 @@
+OBJECTS:
+        Objects are collection og data and variables, which takes values to the keys.We can access the data by using object name.
+EXAMPLE:
+        let Class={"Student":
+                            {"Name":["rakesh","Sachin","Vijay"]
+                            " Rollno":[1,2,3]
+                            }
+                            }
+
+Here the object name is Class. We can access the data by using following syntax.
+             console.log(Class.Student.Rollno[0])
+             In this we are getting the Rollno of 0th index.
+             
