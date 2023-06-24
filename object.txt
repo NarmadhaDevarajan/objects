@@ -1,5 +1,5 @@
 OBJECTS:
-        Objects are collection of data and variables, which takes values to the keys.We can access the data by using object name.It is unordered collection of related data.Each key-values are called properties.
+        Objects are collection of data and variables, which takes values to the keys.We can access the data by using object name.It is unordered collection of related data.Each key-values are called properties.An Object key contains single values.
 EXAMPLE:1
         let Class={"Student":
                             {"Name":["rakesh","Sachin","Vijay"]
