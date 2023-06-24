@@ -1,6 +1,6 @@
 OBJECTS:
-        Objects are collection og data and variables, which takes values to the keys.We can access the data by using object name.
-EXAMPLE:
+        Objects are collection of data and variables, which takes values to the keys.We can access the data by using object name.It is unordered collection of related data.Each key-values are called properties.
+EXAMPLE:1
         let Class={"Student":
                             {"Name":["rakesh","Sachin","Vijay"]
                             " Rollno":[1,2,3]
@@ -11,3 +11,20 @@ Here the object name is Class. We can access the data by using following syntax.
              console.log(Class.Student.Rollno[0])
              In this we are getting the Rollno of 0th index.
              
+EXAMPLE 2:
+        let fruits = ["Apple", "Orange", "Mango"];
+        for (i = 0; i < fruits.length; i++) 
+        {
+          console.log(fruits[i]);
+        }
+EXAMPLE 3:
+ let see the details of car:
+
+var car={
+        type:"xxxx",
+        model:"123",
+        color:"red"
+}
+console.log(car.type);
+cosole.log(car.model);
+console.log(car.color);
